@@ -2,17 +2,6 @@
 
 **CSE 2027 | SKIT Jaipur**
 
----
-
-## 📋 Table of Contents
-- [About](#about)
-- [Projects](#projects)
-- [Contact](#contact)
-
----
-
-## 👋 About
-Results-driven Computer Science student with expertise in data analysis, spreadsheet automation, and software development.
 
 ---
 
@@ -26,8 +15,7 @@ Results-driven Computer Science student with expertise in data analysis, spreads
 ---
 
 ## 📧 Contact
-- **Email:** [your-email@example.com]
-- **LinkedIn:** [linkedin.com/in/yourprofile]
-- **GitHub:** [github.com/yourprofile]
+- **Email:** [varunagarwal2604@gmail.com]
+
 
 ---
